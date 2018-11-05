@@ -58,7 +58,7 @@ body {
   }
   
   .navbar {
-    background-color: brown;
+    background-color: #2d3c49;
   }
   
   .navbar-light .navbar-nav .nav-link {
@@ -87,7 +87,7 @@ body {
   }
   
   footer {
-    background-color: brown;
+    background-color: #2d3c49;
     color: white;
     margin-top: 50px;
     display: flex;
